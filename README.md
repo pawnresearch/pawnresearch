@@ -1,5 +1,4 @@
-hi... please bmf heh.... IM NICE, TRUST!!!
-
-i have multiple style uhmmm, anyways my sign atabook ^_^!!
+i tends to be very shy towards new people.. BUT FEEL FREE TO INTERACT! I WOULD BE VERY HAPPY ^_^ (i need friends)
+MULTIPLE ART STYLE || sign atabook!
 
 ![image](https://pbs.twimg.com/media/GoWEIpyWAAEsUVl?format=jpg&name=small)
