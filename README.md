@@ -1,8 +1,7 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pawnresearch&label=MAFIA!!!!&color=red&style=square" alt="pawnresearch" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pawnresearch&label=MAPE&color=red&style=square" alt="pawnresearch" /> </p>
 
 <p align="center">
-  
-  <img src="https://pbs.twimg.com/media/GxCDMpfbUAEgmUl?format=jpg&name=4096x4096" />
+  <img width="348" height="492" alt="image" src="https://github.com/user-attachments/assets/6b7b0b29-364d-4521-b6f6-7cfb1aede883" />
   
 </p>
 
