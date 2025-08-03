@@ -11,5 +11,3 @@
   <img width="348" height="492" alt="image" src="https://github.com/user-attachments/assets/6b7b0b29-364d-4521-b6f6-7cfb1aede883" />
   
 </p>
-
-　⠀　⠀　⠀　⠀　⠀　⠀　⠀　⠀　⠀　⠀　⠀ 　⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀ **[carrd](https://pawnresearch.carrd.co) 　⠀　⠀　⠀　⠀[ata](https://pawnresearch.atabook.org/)**
