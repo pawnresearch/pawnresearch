@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  guys im actually good at making skins, i just don't want to show it
+  guys im actually good at making skins, i just don't want to show it, let's be friends guys :)
 
   </p> 
   
