@@ -1,12 +1,9 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pawnresearch&label=DOL9HIN&color=blue&style=square" alt="pawnresearch" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pawnresearch&label=DEPENDENCE&color=blue&style=square" alt="pawnresearch" /> </p>
 
 <p align="center">
-feel free to int, i don't bite ^_^
-  </p> 
-  
-<p align="center">
-  <img width="4096" height="3072" alt="image" src="https://github.com/user-attachments/assets/c21a215a-0046-4744-a44d-96b9929e2296" />
+    
+  <img width="2048" height="1304" alt="image" src="https://github.com/user-attachments/assets/13788af4-bd44-4855-acd7-9fb85def1609" />
+commissioned art by @pufferfisw on twt
 
 --------
 </p>
