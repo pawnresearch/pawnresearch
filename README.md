@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pawnresearch&label=DEPENDENCE&color=blue&style=square" alt="pawnresearch" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pawnresearch&label=DEPEND..&color=DBDBDB&style=square" alt="pawnresearch" /> </p>
 
 <p align="center">
     
