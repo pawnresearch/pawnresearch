@@ -3,7 +3,7 @@
 <p align="center">
     
   <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5d66fd29-6b2b-4efb-984d-a2a823e4e06e" />
-commissioned art by @pufferfisw on twt, follow @notsodependaily on twt
+follow @notsodependaily on twt
 
 --------
 </p>
