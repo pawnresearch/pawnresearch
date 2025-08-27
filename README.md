@@ -2,8 +2,8 @@
 
 <p align="center">
     
-  <img width="2048" height="1304" alt="image" src="https://github.com/user-attachments/assets/13788af4-bd44-4855-acd7-9fb85def1609" />
-commissioned art by @pufferfisw on twt
+  <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5d66fd29-6b2b-4efb-984d-a2a823e4e06e" />
+commissioned art by @pufferfisw on twt, follow @notsodependaily on twt
 
 --------
 </p>
