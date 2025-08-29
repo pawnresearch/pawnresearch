@@ -13,6 +13,7 @@ follow @notsodependaily on twt
 </p>
 
 <p align="center">
-    TAKE A NOTE FROM DOL9HIN NUFULI!!!1
+<img width="346" height="227" alt="image" src="https://github.com/user-attachments/assets/db189e17-d806-45f2-9d81-75816d186916" />
+
 
 </p>
