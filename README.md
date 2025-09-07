@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pawnresearch&label=DEPEND..&color=DBDBDB&style=square" alt="pawnresearch" /> </p>
 
- ⠀ ⠀ ⠀⠀ ⠀ ⠀  ⠀ ⠀  ⠀ ⠀ ⠀⠀  ⠀  ⠀ ⠀ ⠀⠀ ⠀ ⠀  ⠀ ⠀  ⠀ ⠀ ⠀⠀  ⠀  ⠀ ⠀ ⠀⠀ **[carrd](https://pawnresearch.carrd.co/)** ⠀⠀  ⠀ ⠀⠀  ⠀  **[atabook](https://pawnresearch.atabook.org/)**
+ ⠀ ⠀ ⠀⠀ ⠀ ⠀  ⠀ ⠀  ⠀ ⠀ ⠀⠀  ⠀  ⠀ ⠀ ⠀⠀ ⠀ ⠀  ⠀ ⠀  ⠀ ⠀ ⠀⠀  ⠀  ⠀ ⠀ ⠀  **[carrd](https://pawnresearch.carrd.co/)** ⠀⠀  ⠀ ⠀⠀  ⠀  **[atabook](https://pawnresearch.atabook.org/)**
  
 <p align="center">
     
