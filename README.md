@@ -2,18 +2,6 @@
 
 <p align="center">
     
-  <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5d66fd29-6b2b-4efb-984d-a2a823e4e06e" />
-follow @notsodependaily on twt
+  <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/248b9a23-df5d-43d4-8ef5-ba9027eccfad" />
+</p> 
 
---------
-</p>
-
-<p align="center">
-<img width="318" height="118" alt="image" src="https://github.com/user-attachments/assets/a930e081-9b3f-44e2-8917-9dcabb0e692c" /> <img width="447" height="115" alt="image" src="https://github.com/user-attachments/assets/9dbbe68d-02cf-47ae-82de-910117022479" />
-</p>
-
-<p align="center">
-<img width="346" height="227" alt="image" src="https://github.com/user-attachments/assets/db189e17-d806-45f2-9d81-75816d186916" />
-
-
-</p>
