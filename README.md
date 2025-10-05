@@ -8,11 +8,5 @@
 
 ---- 
 <p align="center">
-ok fine im doing analysis whatever bro
+<img width="568" height="310" alt="image" src="https://github.com/user-attachments/assets/9dad848a-02a7-4156-8f23-dd3d69e07558" />
 </p>
- 
-<p align="center">
-     
-<img width="704" height="130" alt="image" src="https://github.com/user-attachments/assets/6131a319-1180-4f94-8dec-edb79919bc3f" />
-
-</p> 
