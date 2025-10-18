@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
- <img width="598" height="395" alt="image" src="https://github.com/user-attachments/assets/62fc5248-7d1c-4ea7-b62c-1ba35cbe78d9" />
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/a5c7c828-2716-4853-b175-8b53bef228f2" />
 </p>
