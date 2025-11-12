@@ -5,5 +5,9 @@
 </p>
 
 <p align="center">
-<img width="4096" height="3072" alt="image" src="https://github.com/user-attachments/assets/37f5b86e-022c-4368-a2d9-775d6edf8ca8" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/564f0c8d-dbf4-4db8-b154-de1435d6854b" />
+</p>
+
+<p align="center">
+certified sososhaun #1 fan with her fanmerch and irl cosplay (WIP)
 </p>
