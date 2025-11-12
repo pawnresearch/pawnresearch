@@ -1,13 +1,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pawnresearch&label=✦&color=grey&style=square" alt="pawnresearch" /> </p>
 
 <p align="center">
-  <a href="https://pawnresearch.carrd.co/">carrd</a> ⠀ ⠀ ⠀<a href="https://sososhaun.atabook.org/">ata</a>
+  <a href="https://pawnresearch.carrd.co/">carrd</a> ⠀ ⠀ ⠀<a href="https://sososhaun.atabook.org/">atabook</a> ⠀ ⠀ ⠀<a href="https://guns.lol/pwnel">guns.lol</a>
 </p>
 
 <p align="center">
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/564f0c8d-dbf4-4db8-b154-de1435d6854b" />
-</p>
-
-<p align="center">
-certified sososhaun #1 fan with her fanmerch and irl cosplay (WIP)
+<img width="276" height="368" alt="image" src="https://github.com/user-attachments/assets/2851fe73-f17c-43d1-b070-46fca6e1850f" />
 </p>
