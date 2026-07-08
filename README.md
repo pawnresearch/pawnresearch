@@ -1,3 +1,4 @@
+
  ⠀ ⠀ ⠀
 
  ⠀ ⠀ ⠀
@@ -10,6 +11,8 @@
  ⠀ ⠀ ⠀
 
  ⠀ ⠀ ⠀
+ 
+##### <p align="center"> thanks a lot! <p align="center"> [pt-players](https://github.com/pt-players) ⠀ ⠀[tittle-town](https://github.com/title-town) </p>
 
 ##### <p align="center"><img src="https://files.catbox.moe/yse26y.gif" width="auto" height="auto" align="center"></img></a> <br>
 
